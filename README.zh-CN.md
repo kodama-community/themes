@@ -12,14 +12,17 @@
 
 | 主题文件 | 主题名 | 风格 | 说明 |
 | - | - | - | - |
-| `forester.html` | `forester` | 浅色 | 来自 [Forester][forester] |
-| `kodama.html` | `kodama` | 深色 | `forester` 的深色版本 |
-| `default.html` | `default` | 系统 | 默认主题, `forester` + `kodama` |
-| `fuchsia.html` | `fuchsia` | 浅色 | |
-| `serena.html` | `serena` | 深色 | |
-| `zenwritten.html` | `zen light` | 浅色 | 来自 [Zenwritten][zenwritten] |
-| `zenwritten.html` | `zen dark` | 深色 | 来自 [Zenwritten][zenwritten] |
-| `zenwritten.html` | `zen` | 系统	 | 来自 [Zenwritten][zenwritten] |
+| `forester.html` | `forester` | Light | Inspired by [Forester](https://www.forester-notes.org/) |
+| `kodama.html` | `kodama` | Dark | Dark version of `forester` |
+| `default.html` | `default` | System | Default theme, `forester` + `kodama` |
+| `fuchsia.html` | `fuchsia` | Light | |
+| `serena.html` | `serena` | Dark | |
+| `zenwritten.html` | `zen light` | Light | Inspired by [Zenwritten][zenwritten] |
+| `zenwritten.html` | `zen dark` | Dark | Inspired by [Zenwritten][zenwritten] |
+| `zenwritten.html` | `zen` | System | Inspired by [Zenwritten][zenwritten] |
+| `moon.html` | `朔望` | System | Inspired by Pink Floyd - The Dark Side of the Moon |
+| `moon.html` | `望月` | Light | Inspired by Pink Floyd - The Dark Side of the Moon |
+| `moon.html` | `朔月` | Dark | Inspired by Pink Floyd - The Dark Side of the Moon |
 
 # 安装
 

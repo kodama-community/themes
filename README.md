@@ -20,6 +20,9 @@ Themes for [Kodama](https://kodama-community.github.io/).
 | `zenwritten.html` | `zen light` | Light | Inspired by [Zenwritten][zenwritten] |
 | `zenwritten.html` | `zen dark` | Dark | Inspired by [Zenwritten][zenwritten] |
 | `zenwritten.html` | `zen` | System | Inspired by [Zenwritten][zenwritten] |
+| `moon.html` | `朔望` | System | Inspired by Pink Floyd - The Dark Side of the Moon |
+| `moon.html` | `望月` | Light | Inspired by Pink Floyd - The Dark Side of the Moon |
+| `moon.html` | `朔月` | Dark | Inspired by Pink Floyd - The Dark Side of the Moon |
 
 # Installation
 
